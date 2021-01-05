@@ -3,7 +3,7 @@ const app = express()
 
 const { config } = require('./config/index')
 
-app.length('/leapyear', (req, res) => {
+app.get('/leapyear', (req, res) => {
   res.json({
     res,
     year: 'asd',
