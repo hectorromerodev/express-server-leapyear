@@ -1,5 +1,5 @@
 # Challenge
-## Create a server with express and recibe a year then determinate if it's leap year or not.
+## Create a server with express and recive a year then determinate if it's leap year or not.
 
 # What I learned
 ### I learn to ...
